@@ -6,7 +6,8 @@
 </table>
 
 ### Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /> 
-### Меня зовут Юля и я начинающий ✨ **фронтенд-разработчик** ✨
+
+Меня зовут Юля и я начинающий ✨ **фронтенд-разработчик** ✨
 <img align="right" width="40%" src="https://raw.githubusercontent.com/OctopussyO/OctopussyO/master/programmer.gif" alt="Гифка с программистом!">
 
 #### Несколько фактов обо мне:
