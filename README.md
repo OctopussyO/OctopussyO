@@ -39,6 +39,6 @@
 
 📫 Для связи: <up.doroshina@yandex.ru>
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=OctopussyO&show_icons=true&count_private=true&theme=gruvbox" alt="Статистика" />
-
+<div align="center" >
+<img src="https://github-readme-stats.vercel.app/api?username=OctopussyO&show_icons=true&count_private=true&theme=gruvbox" alt="Статистика" />
+</div>
