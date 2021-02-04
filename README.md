@@ -10,7 +10,6 @@
 Меня зовут Юля и я начинающий ✨ **фронтенд-разработчик** ✨
 <img align="right" width="40%" src="https://raw.githubusercontent.com/OctopussyO/OctopussyO/master/programmer.gif" alt="Гифка с программистом!">
 
-
 #### Несколько фактов обо мне:
    🎓 Сейчас я тружусь над выпускной работой<br/>
    🌱 Обучалась в Яндекс.Практикуме на курсе "Веб-разработка"<br/>
@@ -23,8 +22,6 @@
 
 
 ### Мой стек 👨🏽‍💻:
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=OctopussyO&show_icons=true&count_private=true&theme=tokyonight" alt="Статистика" />
-
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -39,6 +36,9 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 
+
 📫 Для связи: <up.doroshina@yandex.ru>
 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=OctopussyO&show_icons=true&count_private=true&theme=gruvbox" alt="Статистика" />
 
