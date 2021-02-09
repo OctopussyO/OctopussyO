@@ -47,6 +47,9 @@
   </a>
   <a href="https://www.facebook.com/vosmikiska" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
+  </a><br/>
+  <a href="https://hh.ru/resume/2e8998a3ff08adb2d60039ed1f6571516f6656">
+    <img src="https://img.shields.io/badge/hh-headhunter-red.svg?&style=for-the-badge" alt="Headhunter"/>
   </a>
 </p>
 
