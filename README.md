@@ -20,7 +20,6 @@
    🐾 У меня два чихуахуа (не знаю, зачем вам это знать, но теперь вы знаете)<br/>
 <br/>
 
-
 #### Мой стек 👨🏽‍💻:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -35,7 +34,10 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OctopussyO&show_icons=true&count_private=true&theme=gruvbox" alt="Статистика" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OctopussyO&show_icons=true&hide_rank=true&hide_title=true&count_private=true&theme=gruvbox" alt="Статистика" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OctopussyO&show_icons=true&locale=en&layout=compact&count_private=true&theme=gruvbox&hide=python&langs_count=8" alt="OctopussyO" />
+
 </p>
 
 <p align="center">
