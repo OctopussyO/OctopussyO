@@ -14,11 +14,11 @@
     <a href="https://www.codewars.com/users/OctopussyO" target="_blank">
       <img src="https://www.codewars.com/users/OctopussyO/badges/micro" alt="Codewars"/>
     </a></br>
-   👩🏻‍💻 Работаю в студии [BlackWall](https://wall.black/)</br>
+   👩🏻‍💻 Являюсь руководителем frontend-разработки в компании Sandbox </br>
    🌱 Обучалась в Яндекс.Практикуме на курсе "Веб-разработка"<br/>
-   🏆 Активно участвую в хакатонах<br/>
    👯 Умею работать в команде<br/>
-   💖 React.js, Vue.js<br/>
+   🏆 Нацелена на результат и стараюсь соблюдать дедлайны<br/>
+   💖 Vue.js, Nuxt.js<br/>
    ⚡ Мечтаю преисполниться в своём познании и стать топовым разработчиком<br/>
    🐾 У меня два чихуахуа (не знаю, зачем вам это знать, но теперь вы знаете)<br/>
 <br/>
